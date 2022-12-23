@@ -1,0 +1,8 @@
+C:\Users\Mahmoud\Downloads\primenumbertask\primenumbertask\bin\Debug\primenumbertask.exe.config
+C:\Users\Mahmoud\Downloads\primenumbertask\primenumbertask\bin\Debug\primenumbertask.exe
+C:\Users\Mahmoud\Downloads\primenumbertask\primenumbertask\bin\Debug\primenumbertask.pdb
+C:\Users\Mahmoud\Downloads\primenumbertask\primenumbertask\obj\Debug\primenumbertask.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Downloads\primenumbertask\primenumbertask\obj\Debug\primenumbertask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahmoud\Downloads\primenumbertask\primenumbertask\obj\Debug\primenumbertask.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Downloads\primenumbertask\primenumbertask\obj\Debug\primenumbertask.exe
+C:\Users\Mahmoud\Downloads\primenumbertask\primenumbertask\obj\Debug\primenumbertask.pdb
